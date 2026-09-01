@@ -4,7 +4,7 @@
 
 ## Demo
 
-*(Video goes here — see instructions below)*
+
 
 ## Screenshots
 
@@ -13,7 +13,6 @@
 <img width="1920" height="1080" alt="Screenshot 2026-09-01 082919" src="https://github.com/user-attachments/assets/7faf591c-7ad4-458d-9977-23fab6e7b9a4" />
 <img width="1920" height="1080" alt="Screenshot 2026-09-01 083320" src="https://github.com/user-attachments/assets/e3de33cd-b044-42e0-a270-558b75392220" />
 <img width="1920" height="1080" alt="Screenshot 2026-09-01 083346" src="https://github.com/user-attachments/assets/917b9d9b-1109-4cc0-9e81-5a725d3a1610" />
-
 
 
 
